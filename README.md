@@ -1,4 +1,4 @@
-Robofriends React app, my first app on react
+Robofriends React App, My first app with React and Redux
 
 To check this app out:
 
